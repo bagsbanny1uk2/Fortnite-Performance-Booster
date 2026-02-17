@@ -19,7 +19,7 @@ This utility provides a simple interface to apply performance-related tweaks tha
 # **Requirements**
 
 - OS: Microsoft Windows 10/11 (64-bit). Administrator rights are required to apply certain system-level tweaks.  
-- Game: Intended for use with the live/public version of ARC Raiders.
+- Game: Intended for use with the live/public version of Fortnite.
 
 # **Installation & Usage**
 
